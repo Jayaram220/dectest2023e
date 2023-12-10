@@ -11,7 +11,15 @@ void fun3()
 {
 	printf("rrrrrrrrrrrrrr");
 }
+
+void fun()
+{
+	printf("greate");
+}
+
 int main()
 {
-	printf("jppppppppppppp");
+	printf("bye");
+	printf("hj");
+	printf("rty ui");
 }
