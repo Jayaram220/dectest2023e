@@ -15,4 +15,5 @@ int main()
 {
 	printf("bye");
 	printf("hj");
+	printf("rty ui");
 }
