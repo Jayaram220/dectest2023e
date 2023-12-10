@@ -7,7 +7,12 @@ void sum(int a,int b)
 
 }
 
+void fun()
+{
+	printf("greate");
+}
 int main()
 {
-	printf("hello");
+	printf("bye");
+	printf("hj");
 }
