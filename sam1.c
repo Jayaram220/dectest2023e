@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+static int fg = 4;
 void sum(int a,int b)
 {
 	int sum = a+b;
